@@ -12,5 +12,5 @@ A remote surveillance robot built with Raspberry Pi, designed for real-time moni
 
 **Technologies Used**
 
-*Hardware: Raspberry Pi, Pi Camera, Sensors, DC Motors.
-*Software: Python, OpenCV, Raspbian OS.
+* Hardware: Raspberry Pi, Pi Camera, Sensors, DC Motors.
+* Software: Python, OpenCV, Raspbian OS.
