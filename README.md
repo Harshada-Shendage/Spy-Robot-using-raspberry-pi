@@ -5,10 +5,10 @@ A remote surveillance robot built with Raspberry Pi, designed for real-time moni
 
 **Features**
 
-*Live Video Streaming: Provides real-time footage.
-*Object Detection: Identifies and tracks objects.
-*Remote Access: Control via VNC or SSH.
-*Autonomous Navigation: Moves and avoids obstacles independently.
+* Live Video Streaming: Provides real-time footage.
+* Object Detection: Identifies and tracks objects.
+* Remote Access: Control via VNC or SSH.
+* Autonomous Navigation: Moves and avoids obstacles independently.
 
 **Technologies Used**
 
